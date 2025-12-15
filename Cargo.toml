@@ -1,0 +1,9 @@
+[workspace]
+members=[]
+resolver="3"
+
+[workspace.package]
+license = "MPL-2.0"
+description = "All open-source Portal CLIs, all in one place"
+
+[workspace.dependencies]
