@@ -5,5 +5,5 @@ resolver="3"
 [workspace.package]
 license = "MPL-2.0"
 description = "All open-source Portal CLIs, all in one place"
-
+repository = "https://github.com/portal-co/cli"
 [workspace.dependencies]
