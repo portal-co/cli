@@ -1,13 +1,14 @@
 # cli
 
 ## Description
-Project cli
+A unified monorepo for all open-source Portal command-line interfaces.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Centralize CLI tools
+- [ ] Provide consistent developer experience
 
 ## Progress
-- [ ] Initial setup
+- [ ] Workspace initialized
 
 ---
 *AI assisted*
